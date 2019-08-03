@@ -98,7 +98,7 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
 
-<h1><span class="yellow"><marquee behavior="left">!!! 2019年8月2日_1G1,中間報告会の記録 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2019年8月2日_1G1,中間報告会＠LION'S HEAD !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 
