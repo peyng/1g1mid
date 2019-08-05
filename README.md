@@ -61,7 +61,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/1g1mid/20190802_011.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/1g1mid/20190802_017.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -148,6 +148,9 @@ a.p:hover span {
 <a href="20190802_010.jpg" data-lightbox="abc"><img src="20190802_010.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190802_011.jpg" data-lightbox="abc"><img src="20190802_011.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190802_012.jpg" data-lightbox="abc"><img src="20190802_012.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20190802_015.JPG" data-lightbox="abc"><img src="20190802_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190802_016.JPG" data-lightbox="abc"><img src="20190802_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190802_017.JPG" data-lightbox="abc"><img src="20190802_017.JPG" alt="サンプル画像" width="900" /></a>
 <p>&#160;</p>
 <h2>スピーチ動画</h2>
 <a href="https://youtu.be/KES1T9H-YoE" target="_blank"><img src="20190802_013.jpg" alt="並木さん" width="450" /></a>
