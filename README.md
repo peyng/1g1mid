@@ -154,7 +154,7 @@ a.p:hover span {
 <p>&#160;</p>
 <h2>スピーチ動画</h2>
 <a href="https://youtu.be/KES1T9H-YoE" target="_blank"><img src="20190802_013.jpg" alt="並木さん" width="450" /></a>
-<p>小林さんパートは改修中～(^_-)-☆</p>
+<p><span class="blue">小林さんパートは改修中～(^_-)-☆</span></p>
 <!--
 <a href="https://youtu.be/-r8eR5OqDTM" target="_blank"><img src="20190802_014.jpg" alt="小林さん" width="450" /></a><br/>-->
 
